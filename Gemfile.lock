@@ -1,3 +1,8 @@
+PATH
+  remote: aaa/forum
+  specs:
+    forum (1.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -249,6 +254,7 @@ DEPENDENCIES
   capybara
   debug
   error_highlight (>= 0.4.0)
+  forum!
   importmap-rails
   jbuilder
   puma (>= 5.0)
